@@ -1,0 +1,17 @@
+html{
+    background-color: #b8ddff; 
+}
+h1, p {
+    text-align: center;
+}
+img, ul{
+    display: block;
+    margin: 0 auto;
+}
+p {
+    color: #dd0000;
+}
+ul{
+    width: 240px;
+    border: 1px solid black;
+}
