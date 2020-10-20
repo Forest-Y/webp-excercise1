@@ -10,7 +10,9 @@ ul{
     width: 240px;
     border: 1px solid black;
 }
-
+img{
+    margin: 0, auto;
+}
 p {
     color: #dd0000;
 }
