@@ -8,6 +8,10 @@ img, ul{
     display: block;
     margin: 0 auto;
 }
+
+image-vw{
+    width: 50vw;
+}
 p {
     color: #dd0000;
 }
