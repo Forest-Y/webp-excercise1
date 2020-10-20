@@ -4,12 +4,12 @@ html{
 h1, p {
     text-align: center;
 }
-img, ul{
+ul{
     display: block;
     margin: 0 auto;
 }
 
-#image-vw img{
+img{
     width: 50vw;
 }
 p {
