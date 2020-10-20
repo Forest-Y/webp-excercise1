@@ -4,6 +4,9 @@ html{
 h1, p {
     text-align: center;
 }
+h1{
+    text-shadow: 3px 3px 1px black;
+}
 ul{
     display: block;
     margin: 0 auto;
