@@ -9,7 +9,7 @@ img, ul{
     margin: 0 auto;
 }
 
-#image-vw{
+#image-vw img{
     width: 50vw;
 }
 p {
