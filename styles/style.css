@@ -10,7 +10,7 @@ ul{
     width: 240px;
     border: 1px solid black;
 }
-img{
+p.image-center{
     margin: 0, auto;
 }
 p {
