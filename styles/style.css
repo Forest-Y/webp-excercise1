@@ -7,6 +7,8 @@ h1, p {
 ul{
     display: block;
     margin: 0 auto;
+    width: 240px;
+    border: 1px solid black;
 }
 
 img{
@@ -15,8 +17,4 @@ img{
 }
 p {
     color: #dd0000;
-}
-ul{
-    width: 240px;
-    border: 1px solid black;
 }
