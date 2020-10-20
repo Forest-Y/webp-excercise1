@@ -11,7 +11,8 @@ ul, img{
     border: 1px solid black;
 }
 
-#image img{
+div{
+    text-align: center;
     width: 80vw;
 }
 p {
