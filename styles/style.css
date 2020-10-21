@@ -13,7 +13,6 @@ h1, p.image-center {
 }
 h1, h2, h3{
     color: #00539F;
-
 }
 h1{
     text-shadow: 3px 3px 1px black;
@@ -25,4 +24,8 @@ ul.role-strength{
     border: 1px solid black;
     background-color: white;
     cursor: pointer;
+}
+img{
+    width: 200px;
+    height: auto;
 }
